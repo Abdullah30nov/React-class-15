@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Scarlet Witch",
+      "username": "Scarlet ",
+      "email": "scarlet@gmail.com",
+      "phone": "41-859-220-743",
+      "id": "9"
+    },
+    {
+      "name": "Bruce Banner",
+      "username": "burce_12",
+      "email": "Bruce@gmail.com",
+      "phone": "75-850-960-026",
+      "id": "10"
+    },
+    {
+      "name": "abdullah",
+      "username": "Abdullah_30nov",
+      "email": "abdullah@gmail.com",
+      "phone": "03265916994",
+      "id": "12"
+    }
+  ]
+}
